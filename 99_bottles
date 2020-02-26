@@ -18,8 +18,8 @@ for i in range(1, 99):
 	else:
 		break
 
-print()
 print("1 bottle of beer on the wall!")
+print()
 
 # Last two stanzas
 
