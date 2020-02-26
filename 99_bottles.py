@@ -1,5 +1,3 @@
-#! /usr/bin/python3
-
 # Prints out all lines of "99 bottles of beer on the wall"
 
 for i in range(1, 99):
